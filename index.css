@@ -1,0 +1,12 @@
+/* *
+*<div id= "parent">
+<div id= "child">
+<h1>Parent</h1>
+</div>
+</div>
+* ReactElement(Object ) => HTML(Browser Understanding)
+*/
+#heading {
+    color: red;
+     
+}
